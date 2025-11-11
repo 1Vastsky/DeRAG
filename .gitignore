@@ -1,0 +1,15 @@
+node_modules/
+build/
+
+# Circom/snarkjs artifacts
+*.r1cs
+*.sym
+*.ptau
+*.zkey
+*.wtns
+proof.json
+public.json
+verification_key.json
+
+# OS metadata
+.DS_Store
